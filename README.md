@@ -16,11 +16,10 @@
   
   
 </p>
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=YashSrivastav16" alt="visitor badge"/></p>
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashSrivastav16&show_icons=true&theme=chartreuse-dark" /> 
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSrivastav16&theme=chartreuse-dark" />
 </p> 
 
